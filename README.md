@@ -22,7 +22,7 @@ Open your web browser and visit (http://localhost:3000) to view the ERP System.
 ### Here we can Add Product
 ![Screenshot (73)](https://github.com/deepthi513/ERP-system-with-React/assets/144103733/39864286-df0e-4422-abad-7e583965a2d6)
 The cart with products in will look something like the image below.
-(https://github.com/deepthi513/ERP-system-with-React/assets/144103733/209f9cd4-c552-44e1-8725-b22dcdc59cca")
+[Screenshot(3)](https://github.com/deepthi513/ERP-system-with-React/assets/144103733/bc355afb-71a0-4c18-9d9b-8b2e2896eec3)
 
 Clone the repository
 ``https://github.com/deepthi513/ERP-system-with-React.git``
