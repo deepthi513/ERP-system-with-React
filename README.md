@@ -7,9 +7,6 @@ Build MERN stack (MongoDB, Express.js, React.js, Node.js). Features: Product Man
 
 Before getting started, ensure you have Node.js and npm installed on your machine. If not, you can download and install them from the [official Node.js website] (https://nodejs.org/).
 Now, follow these steps to set up the ERP System on your local machine:
-## Getting Started
-
- Clone the repository    ```   ```
 
 ### Dependencies
 
@@ -25,4 +22,7 @@ Open your web browser and visit (http://localhost:3000) to view the ERP System.
 ### Here we can Add Product
 ![Screenshot (73)](https://github.com/deepthi513/ERP-system-with-React/assets/144103733/39864286-df0e-4422-abad-7e583965a2d6)
 The cart with products in will look something like the image below.
-<img width="514" alt="cart_with_products" src="https://github.com/deepthi513/ERP-system-with-React/assets/144103733/209f9cd4-c552-44e1-8725-b22dcdc59cca">
+(https://github.com/deepthi513/ERP-system-with-React/assets/144103733/209f9cd4-c552-44e1-8725-b22dcdc59cca")
+
+Clone the repository
+``https://github.com/deepthi513/ERP-system-with-React.git``
